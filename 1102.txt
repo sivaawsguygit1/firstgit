@@ -1,1 +1,2 @@
 Today we are working on git practise
+Added new line for git fetch
